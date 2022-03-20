@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "638573560665",
+    "firebase_url": "https://fir-kel2-ganjil-default-rtdb.firebaseio.com",
+    "project_id": "fir-kel2-ganjil",
+    "storage_bucket": "fir-kel2-ganjil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638573560665:android:e8f815b26a9d9517b68248",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kel2_ganjil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638573560665-7alanmcebgv4mb21n3lgsumrc8rsc0ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUP4aOhrk8XLLS3VqEfIFXu6_ypUJ3xBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638573560665-7alanmcebgv4mb21n3lgsumrc8rsc0ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
